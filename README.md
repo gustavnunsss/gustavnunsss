@@ -1,4 +1,4 @@
-## Hello Word, my name is Gustavo Nunes! ##
+## 👨🏽‍💻 Hello Word, my name is Gustavo Nunes! ##
 
 **`Desenvolvedor Web`**
 
