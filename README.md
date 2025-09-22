@@ -1,4 +1,4 @@
-## 👨🏽‍💻 Hello Word, my name is Gustavo Nunes! ##
+## Hello Word, my name is Gustavo Nunes! ##
 
 **`Desenvolvedor Web`**
 
@@ -7,8 +7,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em me tornar u
 Estou sempre buscando aprimorar minhas habilidades por meio de projetos práticos, boas práticas de desenvolvimento e novas tecnologias, com o objetivo de evoluir constantemente como profissional e colaborar em soluções que gerem impacto.
 
 ---
-### 🧠 Linguagens e Tecnologias 
-       
+### 🧠 Linguagens e Tecnologias        
 <img 
     align='left'
     alt='Html'
@@ -89,6 +88,42 @@ Estou sempre buscando aprimorar minhas habilidades por meio de projetos prático
     style='padding-right: 10px;'
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 /> 
+
+</br>
+</br>
+
+### 📊 Estatísticas 
+
+<img 
+    align='left'
+    alt='GitHub Stats'
+    height='200'
+    style='padding-right: 10px;'
+    src="https://github-readme-stats.vercel.app/api?username=Gustavo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/> 
+
+<img 
+    align='left'
+    alt='GitHub Stats'
+    height='200'
+    style='padding-right: 10px;'
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight&custom_title=Tecnologias&langs_count=7" 
+/> 
+
+
+
+
+
+
+
+
+          
+          
+          
+               
+
+          
+          
 
 
 
