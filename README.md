@@ -107,7 +107,7 @@ Estou sempre buscando aprimorar minhas habilidades por meio de projetos prático
     alt='GitHub Stats'
     height='200'
     style='padding-right: 10px;'
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight&custom_title=Tecnologias&langs_count=7" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight&custom_title=Tecnologias&langs_count=9" 
 /> 
 
 
